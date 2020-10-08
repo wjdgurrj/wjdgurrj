@@ -6,7 +6,7 @@
 
 🌱 wanna get lots of knowledge of Front/Backend developement.
     
-🌱 And to do that, I AM MAKE A GREAT EFFORT !!
+🌱 And to do that, I AM MAKING A GREAT EFFORT !!
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=wjdgurrj&show_icons=true)
 <!--
