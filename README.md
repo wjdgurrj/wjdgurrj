@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🌱 I’m currently learning CS in CAU.
+
+🌱 I’m really interested in developer so,
+
+🌱 wanna get lots of knowledge of Front/Backend developement.
+    
+🌱 And to do that, I AM MAKE A GREAT EFFORT !!
+
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=wjdgurrj&show_icons=true)
 <!--
 **wjdgurrj/wjdgurrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
