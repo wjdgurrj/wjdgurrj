@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![giphy-downsized](https://user-images.githubusercontent.com/59694789/95560915-e296db00-0a54-11eb-832d-a83c717fd408.gif)
+
+
 🌱 I’m currently learning CS in CAU.
 
 🌱 I’m really interested in developer so,
