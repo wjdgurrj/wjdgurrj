@@ -7,7 +7,7 @@
 
 🌱 I’m really interested in developer so,
 
-🌱 wanna get lots of knowledge of Front/Backend developement.
+🌱 wanna get lots of knowledge of Web Backend developement.
     
 🌱 And to do that, I AM MAKING A GREAT EFFORT !!
 
